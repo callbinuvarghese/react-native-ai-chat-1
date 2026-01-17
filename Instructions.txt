@@ -1,0 +1,8 @@
+#https://www.youtube.com/watch?v=ts8k8sEjbdE
+
+npx create-expo-app react-native-ai-chat-1 -t expo-template-blank-typescript
+
+npm i @expo/vector-icons
+npm i @google/generative-ai
+
+ npx expo start -c
